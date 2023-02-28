@@ -1,0 +1,15 @@
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\bin\Debug\net6.0\Stars.exe
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\bin\Debug\net6.0\Stars.deps.json
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\bin\Debug\net6.0\Stars.runtimeconfig.json
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\bin\Debug\net6.0\Stars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\bin\Debug\net6.0\Stars.pdb
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.AssemblyInfo.cs
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\refint\Stars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.pdb
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\Stars.genruntimeconfig.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\Stars\obj\Debug\net6.0\ref\Stars.dll

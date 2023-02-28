@@ -1,0 +1,15 @@
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\bin\Debug\net6.0\ManOfStars.exe
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\bin\Debug\net6.0\ManOfStars.deps.json
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\bin\Debug\net6.0\ManOfStars.runtimeconfig.json
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\bin\Debug\net6.0\ManOfStars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\bin\Debug\net6.0\ManOfStars.pdb
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.AssemblyInfo.cs
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\refint\ManOfStars.dll
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.pdb
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ManOfStars.genruntimeconfig.cache
+E:\Aleksandar\coding\C#_BASIC\HOMEWORK#1\ManOfStars\obj\Debug\net6.0\ref\ManOfStars.dll
