@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Aleksandar\\coding\\C#_BASIC\\HOMEWORK#1\\Stars\\Stars.csproj",
+      "projectUniqueName": "D:\\8. СЕАВУС - АКАДЕМИЈА\\C-Sharp_Basic_HOMEWORK\\HOMEWORK#1\\Stars\\Stars.csproj",
       "projectName": "Stars",
-      "projectPath": "E:\\Aleksandar\\coding\\C#_BASIC\\HOMEWORK#1\\Stars\\Stars.csproj",
+      "projectPath": "D:\\8. СЕАВУС - АКАДЕМИЈА\\C-Sharp_Basic_HOMEWORK\\HOMEWORK#1\\Stars\\Stars.csproj",
       "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
-      "outputPath": "E:\\Aleksandar\\coding\\C#_BASIC\\HOMEWORK#1\\Stars\\obj\\",
+      "outputPath": "D:\\8. СЕАВУС - АКАДЕМИЈА\\C-Sharp_Basic_HOMEWORK\\HOMEWORK#1\\Stars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
