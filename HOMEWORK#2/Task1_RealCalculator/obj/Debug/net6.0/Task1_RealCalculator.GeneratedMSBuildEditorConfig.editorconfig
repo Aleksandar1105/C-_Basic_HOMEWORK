@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Stars
-build_property.ProjectDir = E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#1\Stars\
+build_property.RootNamespace = Task1_RealCalculator
+build_property.ProjectDir = E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\

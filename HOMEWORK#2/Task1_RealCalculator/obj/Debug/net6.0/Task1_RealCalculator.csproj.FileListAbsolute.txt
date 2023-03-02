@@ -1,0 +1,15 @@
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\bin\Debug\net6.0\Task1_RealCalculator.exe
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\bin\Debug\net6.0\Task1_RealCalculator.deps.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\bin\Debug\net6.0\Task1_RealCalculator.runtimeconfig.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\bin\Debug\net6.0\Task1_RealCalculator.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\bin\Debug\net6.0\Task1_RealCalculator.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.AssemblyInfo.cs
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\refint\Task1_RealCalculator.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\Task1_RealCalculator.genruntimeconfig.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task1_RealCalculator\obj\Debug\net6.0\ref\Task1_RealCalculator.dll
