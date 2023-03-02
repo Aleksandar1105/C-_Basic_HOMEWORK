@@ -1,0 +1,15 @@
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\bin\Debug\net6.0\Task2_AverageNumber.exe
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\bin\Debug\net6.0\Task2_AverageNumber.deps.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\bin\Debug\net6.0\Task2_AverageNumber.runtimeconfig.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\bin\Debug\net6.0\Task2_AverageNumber.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\bin\Debug\net6.0\Task2_AverageNumber.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.AssemblyInfo.cs
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\refint\Task2_AverageNumber.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\Task2_AverageNumber.genruntimeconfig.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task2_AverageNumber\obj\Debug\net6.0\ref\Task2_AverageNumber.dll
