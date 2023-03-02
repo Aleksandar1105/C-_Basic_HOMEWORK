@@ -1,0 +1,15 @@
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\bin\Debug\net6.0\Task3_SwapNumbers.exe
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\bin\Debug\net6.0\Task3_SwapNumbers.deps.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\bin\Debug\net6.0\Task3_SwapNumbers.runtimeconfig.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\bin\Debug\net6.0\Task3_SwapNumbers.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\bin\Debug\net6.0\Task3_SwapNumbers.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.csproj.AssemblyReference.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.AssemblyInfoInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.AssemblyInfo.cs
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.csproj.CoreCompileInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\refint\Task3_SwapNumbers.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\Task3_SwapNumbers.genruntimeconfig.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#2\Task3_SwapNumbers\obj\Debug\net6.0\ref\Task3_SwapNumbers.dll
