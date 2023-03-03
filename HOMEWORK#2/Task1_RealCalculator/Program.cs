@@ -5,15 +5,14 @@ bool userInputNumber1 = double.TryParse(Console.ReadLine(), out double number1);
 Console.WriteLine("Enter the Second number:");
 bool userInputNumber2 = double.TryParse(Console.ReadLine(), out double number2);
 
-Console.WriteLine("Enter the Operation:");
-bool chooseOperator = char.TryParse(Console.ReadLine(), out char chosenOperator);
-
 if(!userInputNumber1 || !userInputNumber2)
 {
     Console.WriteLine("You entered invalid numbers! Try again!");
     return;
 }
 
+Console.WriteLine("Enter the Operation:");
+bool chooseOperator = char.TryParse(Console.ReadLine(), out char chosenOperator);
 
 if (chosenOperator == '+'){
     double result = number1 + number2;
