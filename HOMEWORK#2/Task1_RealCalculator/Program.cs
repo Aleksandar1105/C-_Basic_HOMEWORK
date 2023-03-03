@@ -1,30 +1,36 @@
 ﻿
 Console.WriteLine("Enter the First number:");
-bool userInputNumber1 = int.TryParse(Console.ReadLine(), out int number1);
+bool userInputNumber1 = double.TryParse(Console.ReadLine(), out double number1);
 
 Console.WriteLine("Enter the Second number:");
-bool userInputNumber2 = int.TryParse(Console.ReadLine(), out int number2);
+bool userInputNumber2 = double.TryParse(Console.ReadLine(), out double number2);
 
 Console.WriteLine("Enter the Operation:");
 bool chooseOperator = char.TryParse(Console.ReadLine(), out char chosenOperator);
 
+if(!userInputNumber1 || !userInputNumber2)
+{
+    Console.WriteLine("You entered invalid numbers! Try again!");
+    return;
+}
+
 
 if (chosenOperator == '+'){
-    int result = number1 + number2;
+    double result = number1 + number2;
     Console.WriteLine("The result is: " + result);
 }
 else if (chosenOperator == '-'){
-    int result = number1 - number2;
+    double result = number1 - number2;
     Console.WriteLine("The result is: " + result);
 }
 else if (chosenOperator == '*')
 {
-    int result = number1 *number2;
+    double result = number1 *number2;
     Console.WriteLine("The result is: " + result);
 }
 else if (chosenOperator == '/')
 {
-    int result = number1 / number2;
+    double result = number1 / number2;
     Console.WriteLine("The result is: " + result);
 }
 else
