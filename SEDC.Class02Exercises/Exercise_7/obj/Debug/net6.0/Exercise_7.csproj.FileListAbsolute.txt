@@ -1,0 +1,15 @@
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\bin\Debug\net6.0\Exercise_7.exe
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\bin\Debug\net6.0\Exercise_7.deps.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\bin\Debug\net6.0\Exercise_7.runtimeconfig.json
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\bin\Debug\net6.0\Exercise_7.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\bin\Debug\net6.0\Exercise_7.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.csproj.AssemblyReference.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.AssemblyInfoInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.AssemblyInfo.cs
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.csproj.CoreCompileInputs.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\refint\Exercise_7.dll
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.pdb
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\Exercise_7.genruntimeconfig.cache
+E:\Aleksandar\coding\C-Sharp_Basic_HOMEWORK\SEDC.Class02Exercises\Exercise_7\obj\Debug\net6.0\ref\Exercise_7.dll
