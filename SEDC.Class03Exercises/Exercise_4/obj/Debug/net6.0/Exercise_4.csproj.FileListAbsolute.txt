@@ -1,0 +1,15 @@
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\bin\Debug\net6.0\Exercise_4.exe
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\bin\Debug\net6.0\Exercise_4.deps.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\bin\Debug\net6.0\Exercise_4.runtimeconfig.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\bin\Debug\net6.0\Exercise_4.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\bin\Debug\net6.0\Exercise_4.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.AssemblyReference.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfoInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfo.cs
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.CoreCompileInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\refint\Exercise_4.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\Exercise_4.genruntimeconfig.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\SEDC.Class03Exercises\Exercise_4\obj\Debug\net6.0\ref\Exercise_4.dll
