@@ -1,0 +1,15 @@
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\bin\Debug\net6.0\BonusHomework_ATM.exe
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\bin\Debug\net6.0\BonusHomework_ATM.deps.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\bin\Debug\net6.0\BonusHomework_ATM.runtimeconfig.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\bin\Debug\net6.0\BonusHomework_ATM.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\bin\Debug\net6.0\BonusHomework_ATM.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.csproj.AssemblyReference.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.AssemblyInfoInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.AssemblyInfo.cs
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.csproj.CoreCompileInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\refint\BonusHomework_ATM.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\BonusHomework_ATM.genruntimeconfig.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\BonusHomework_ATM\BonusHomework_ATM\obj\Debug\net6.0\ref\BonusHomework_ATM.dll
