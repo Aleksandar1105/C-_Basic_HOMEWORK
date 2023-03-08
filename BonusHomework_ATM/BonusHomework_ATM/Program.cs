@@ -73,18 +73,18 @@ do
             else if (continueAction == 'n')
             {
                 continueProgram = false;
-                continueIfWrong = true;
+                continueIfWrong = false;
             }
             else
             {
-                Console.WriteLine("Invalid input!!");
+                Console.WriteLine("Invalid input!");
                 continueProgram = true;
                 continueIfWrong = true;
             }
         }
         else
         {
-            Console.WriteLine("Invalid input!!");
+            Console.WriteLine("Invalid input!");
         }
     }
 
