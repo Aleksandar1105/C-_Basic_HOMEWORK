@@ -1,0 +1,15 @@
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.csproj.AssemblyReference.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.AssemblyInfoInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.AssemblyInfo.cs
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.csproj.CoreCompileInputs.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\bin\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.exe
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\bin\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.deps.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\bin\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.runtimeconfig.json
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\bin\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\bin\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\refint\HOMEWORK#4_Task_4_AgeCalculator.dll
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.pdb
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\HOMEWORK#4_Task_4_AgeCalculator.genruntimeconfig.cache
+D:\8.SEDC\C-Sharp_Basic_HOMEWORK\HOMEWORK#4\HOMEWORK#4_Task_4_AgeCalculator\obj\Debug\net6.0\ref\HOMEWORK#4_Task_4_AgeCalculator.dll
