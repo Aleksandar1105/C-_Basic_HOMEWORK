@@ -17,8 +17,7 @@ int AgeCalculator(DateTime myBirthday)
 {
     DateTime today = DateTime.Today;
     int myAge = today.Year - myBirthday.Year;
-    Console.WriteLine(myBirthday);
-    Console.WriteLine(today.AddYears(-myAge));
+
     if (myBirthday > today.AddYears(-myAge))
     {
         myAge--;
